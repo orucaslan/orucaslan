@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tensorflow**
 
-- 📝 I regularly write articles on [[Data Stractures](https://medium.com/@oruc_aslan)]([Data Stractures](https://medium.com/@oruc_aslan))
+- 📝 I regularly write articles on([Data Stractures](https://medium.com/@oruc_aslan))
 
 - 💬 Ask me about **Python, Data Science**
 
